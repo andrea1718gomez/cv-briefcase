@@ -1,0 +1,35 @@
+.img{
+    height: 20rem;
+    width: 25rem;
+    border-radius: 3rem;
+}
+.logo{
+    width: 6rem;
+    height: 4rem;
+}
+
+.mts{
+    margin-top: 9rem;
+}
+
+.imgs{
+    border-radius: 3rem;
+}
+
+.mart
+{
+    margin-top: 9rem;
+}
+
+.fondo{
+   background-color:#ffeaed;
+}
+
+.colorNavbar{
+    background-color:#e62551;
+}
+
+.color-de-card{
+    border-color:#bd374c ;
+    background-color: #c5eefc;
+}
